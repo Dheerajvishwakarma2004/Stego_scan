@@ -17,7 +17,7 @@ StegoScan is a lightweight, web-based tool that detects the presence of hidden m
 ## 🚀 Live Demo
 
 👉 [Launch App on Streamlit Cloud](https://stegoscan.streamlit.app)  
-(*replace the above link with your actual deployed URL*)
+
 
 ---
 
