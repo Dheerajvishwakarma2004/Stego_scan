@@ -10,7 +10,7 @@ StegoScan is a lightweight, web-based tool that detects the presence of hidden m
 - 🔬 Perform LSB bit-plane analysis across RGB channels  
 - 📊 Visualize stego patterns using grayscale maps and bit histograms  
 - 🧠 Confidence score estimation based on statistical deviation  
-- 📄 Downloadable detection report (TXT format)  
+- 📄 Downloadable detection report (TXT, CSV, PDF format)  
 
 ---
 
