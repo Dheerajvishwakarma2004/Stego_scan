@@ -59,7 +59,7 @@ Clone the repository and install the dependencies:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Dheerajvishwakarma2004/Stego_scan.git](https://github.com/Dheerajvishwakarma2004/Stego_scan.git)
+git clone https://github.com/Dheerajvishwakarma2004/Stego_scan.git
 cd Stego_scan
 
 # Install dependencies
@@ -106,12 +106,8 @@ pip install -r requirements.txt
 
 StegoScan is developed & maintained by:
 
-  * Dheeraj Vishwakarma
-  * Sourajeet Sahoo
-  * Reeti Vyas
+  * [Dheeraj Vishwakarma](https://github.com/Dheerajvishwakarma2004)
+  * [Sourajeet Sahoo](https://github.com/SourajeetOfficial)
+  * [Reeti Vyas](https://github.com/reetivyas)
 
 -----
-
-
-```
-```
