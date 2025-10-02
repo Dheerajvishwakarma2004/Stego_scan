@@ -37,9 +37,12 @@ StegoScan is a lightweight, web-based tool that detects the presence of hidden m
 # Clone the repo
 git clone https://github.com/Dheerajvishwakarma2004/Stego_scan.git
 cd Stego_scan
-
+```
+```bash
 # Install dependencies
 pip install -r requirements.txt
-
+```
+```bash
 # Run the Streamlit app
 streamlit run app.py
+```
