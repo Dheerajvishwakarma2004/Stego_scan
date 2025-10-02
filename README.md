@@ -10,7 +10,7 @@ StegoScan is a lightweight, web-based tool that detects the presence of hidden m
 - 🔬 Perform LSB bit-plane analysis across RGB channels  
 - 📊 Visualize stego patterns using grayscale maps and bit histograms  
 - 🧠 Confidence score estimation based on statistical deviation  
-- 📄 Downloadable detection report (TXT format)  
+- 📄 Downloadable detection report (TXT, CSV, PDF format)  
 
 ---
 
@@ -35,8 +35,8 @@ StegoScan is a lightweight, web-based tool that detects the presence of hidden m
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/stegoscan.git
-cd stegoscan
+git clone https://github.com/Dheerajvishwakarma2004/Stego_scan.git
+cd Stego_scan
 
 # Install dependencies
 pip install -r requirements.txt
