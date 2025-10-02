@@ -35,8 +35,8 @@ StegoScan is a lightweight, web-based tool that detects the presence of hidden m
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/stegoscan.git
-cd stegoscan
+git clone https://github.com/Dheerajvishwakarma2004/Stego_scan.git
+cd Stego_scan
 
 # Install dependencies
 pip install -r requirements.txt
